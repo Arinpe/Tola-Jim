@@ -2,3 +2,19 @@
   background-color: #eee;
   border-radius: 4px;
 }
+
+#img-div {
+  background-color: red;
+  width: 100%;
+  height: 100%;
+}
+
+#image{
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
